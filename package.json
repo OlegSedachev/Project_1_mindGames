@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/OlegSedachev/Project_1_mindGames/issues"
   },
-  "homepage": "https://github.com/OlegSedachev/Project_1_mindGames#readme"
+  "homepage": "https://github.com/OlegSedachev/Project_1_mindGames#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
